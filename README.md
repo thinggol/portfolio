@@ -1,4 +1,4 @@
-# Portfoilio
+# Portfolio
 
 ## Projects
 - project1
