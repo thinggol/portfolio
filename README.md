@@ -2,5 +2,5 @@
 #### Technical Skills: Python,SQL,Excel.IBM Cognos
 
 ## Projects
-- project1
-- project2 
+- [project1]
+- [project2] 
