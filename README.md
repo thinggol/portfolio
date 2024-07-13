@@ -1,5 +1,5 @@
-#Data scientist
+# Data scientist
 
-##Projects
--project1
--project2 
+## Projects
+- project1
+- project2 
